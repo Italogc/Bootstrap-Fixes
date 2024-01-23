@@ -4,7 +4,8 @@ Como Proceder:
 
 1º) Fix do Cask3:
 - Instale qualquer versão do Cask3 no seu sileo [Bootstrap+Serotonin]
-- Se preferir pode instalar o deb colado neste github full-compatível com este método
+- Se preferir pode instalar o deb do repositório original convertido no sileo full-compatível com este método:
+- <link>https://tools4cydia.github.io/Bootstrap</link>
 - Pegue meu arquivo "fix.zip" neste github e extraia pelo tweak "Filza File Manager 64bits"
 - Copie o arquivo "cask3prefs.plist" que está dentro do zip no Filza
 - Cole o arquivo dentro da pasta "Preferences" do seu BootStrap Jailbreak, localizada em:
